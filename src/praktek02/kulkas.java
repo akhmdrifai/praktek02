@@ -2,7 +2,7 @@ package praktek02;
 public class kulkas {
        String merek;
        double harga;
-       String jumlah;
+       double jumlah;
        
        void pendingin(){
            System.out.println("=================");

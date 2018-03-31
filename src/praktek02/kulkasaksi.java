@@ -7,5 +7,7 @@ public class kulkasaksi {
         t1.harga = 6000000;
         t1.jumlah = 1;  
         
+        
+        t1.pendingin();
     }
 }

@@ -18,4 +18,8 @@ public class kulkas {
            return nilai;
         
 }
+        void cetakinfo(){
+            System.out.println("nilainya adalah : "+hitungnilai());
+          
+}
 }

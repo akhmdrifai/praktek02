@@ -9,5 +9,6 @@ public class kulkasaksi {
         
         
         t1.pendingin();
+        System.out.println("nilai kulkas : "+t1.hitungnilai());
     }
 }

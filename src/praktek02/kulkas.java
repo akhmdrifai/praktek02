@@ -11,4 +11,11 @@ public class kulkas {
            System.out.println("jumlah : "+jumlah);
            System.out.println("=================");
        }
+       
+       double hitungnilai(){
+           double nilai;
+           nilai=harga*jumlah;
+           return nilai;
+        
+}
 }

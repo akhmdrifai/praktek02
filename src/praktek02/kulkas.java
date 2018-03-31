@@ -3,6 +3,14 @@ public class kulkas {
        String merek;
        double harga;
        double jumlah;
+
+    public kulkas() {
+        merek="samsung";
+        harga=6000000;
+        jumlah=1;
+    }
+       
+       
        
        void pendingin(){
            System.out.println("=================");

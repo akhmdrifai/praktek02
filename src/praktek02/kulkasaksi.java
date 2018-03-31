@@ -8,9 +8,16 @@ public class kulkasaksi {
         t1.jumlah = 1;  
         
         
-        t1.pendingin();
+        t1.hitungnilai();
         System.out.println("nilai kulkas : "+t1.hitungnilai());
-        t1.pendingin();
+        t1.hitungnilai();
+        
+        kulkas t2 = new kulkas();
+        t2.pendingin();
+        
+        kulkas t3 = new kulkas("LG ",4000000,1);
+        t3.pendingin();
+        
         
     }
 }
